@@ -1,0 +1,26 @@
+{
+  "name": "books-collection-back",
+  "version": "1.0.0",
+  "description": "El objetivo de este ejercicio es que construyas una aplicación **Full Stack** sencilla para gestionar usuarios y sus colecciones de libros.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "express": "4.22.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pableitez/books-collection-back.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pableitez/books-collection-back/issues"
+  },
+  "homepage": "https://github.com/Pableitez/books-collection-back#readme"
+}
